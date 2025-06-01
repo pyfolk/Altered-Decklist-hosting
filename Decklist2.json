@@ -1,0 +1,242 @@
+{
+    "player": "TEMPETEDELANEIGE",
+    "name": "TEMPETEDELANEIGE: afanaze newdeck",
+    "hero": "Afanas & Senka",
+    "faction": "Yzmir",
+    "legal": true,
+    "cards": [
+        {
+            "name": "Spindle Harvesters",
+            "amount": "3",
+            "rarity": "rare",
+            "reference": "ALT_CORE_B_MU_06_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/JPG/en_US/018cd18475e235a87262b7c81d824eba.jpg",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 1,
+                "forrest": 1,
+                "mountain": 0,
+                "ocean": 0
+            }
+        },
+        {
+            "name": "Studious Disciple",
+            "amount": "3",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_04_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/014ba003f4f7aebc9b04401e7e2f7e52.jpg",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 1,
+                "forrest": 0,
+                "mountain": 1,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Muna Caregiver",
+            "amount": "1",
+            "rarity": "unique",
+            "reference": "ALT_COREKS_B_MU_04_U_1102",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/en_US/79874c60aec7daf5ecb17e8ac6d6eabf.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 2,
+                "forrest": 0,
+                "mountain": 1,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Muna Caregiver",
+            "amount": "1",
+            "rarity": "unique",
+            "reference": "ALT_COREKS_B_MU_04_U_193",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/en_US/b51fcfef70f15e54d1671ba2067886ce.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 1,
+                "forrest": 0,
+                "mountain": 2,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Sneezer Shroom",
+            "amount": "1",
+            "rarity": "rare",
+            "reference": "ALT_CORE_B_MU_08_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/en_US/c8e971c332d20b9bb8835a4c020fad51.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 2,
+                "forrest": 1,
+                "mountain": 1,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Ordis Cadets",
+            "amount": "1",
+            "rarity": "unique",
+            "reference": "ALT_CORE_B_OR_06_U_2350",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/78ec747d406bf90b32cbf4725d159d9f.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 1,
+                "forrest": 1,
+                "mountain": 0,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Tooth Fairy",
+            "amount": "2",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_06_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/c759f94bd63327cfbfd66a1ae143adae.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 2,
+                "forrest": 1,
+                "mountain": 1,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Kadigiran Mage-Dancer",
+            "amount": "3",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_07_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/6c9216f33d95f4300c3b6b5c57f628a3.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 1,
+                "forrest": 1,
+                "mountain": 1,
+                "ocean": 1
+            }
+        },
+        {
+            "name": "Sleight of Hand",
+            "amount": "2",
+            "rarity": "rare",
+            "reference": "ALT_ALIZE_B_LY_39_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/249ba8f82825198394159b3f98758c20.png",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 1
+            }
+        },
+        {
+            "name": "Joyride",
+            "amount": "2",
+            "rarity": "rare",
+            "reference": "ALT_ALIZE_B_LY_40_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/595a8046ffc993ed967a70c6b53868ba.png",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 1
+            }
+        },
+        {
+            "name": "Rime Frost",
+            "amount": "2",
+            "rarity": "common",
+            "reference": "ALT_ALIZE_B_YZ_39_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/en_US/c2a6bc1bf8ab838dd118b0da99f65d37.png",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 2
+            }
+        },
+        {
+            "name": "Magical Training",
+            "amount": "1",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_19_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/ed2f2469d98413963478d4350fae04fd.jpg",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 3
+            }
+        },
+        {
+            "name": "Magical Training",
+            "amount": "2",
+            "rarity": "rare",
+            "reference": "ALT_CORE_B_YZ_19_R",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/90f9ddebbc7c7017ce8d06c75e87e902.jpg",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 2
+            }
+        },
+        {
+            "name": "Beauty Sleep",
+            "amount": "2",
+            "rarity": "rare",
+            "reference": "ALT_CORE_B_MU_28_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/en_US/812bc5e55d11a6dd458204917db0aa86.jpg",
+            "stats": {
+                "hand_mana": 1,
+                "reserve_mana": 3
+            }
+        },
+        {
+            "name": "Field Reinforcements",
+            "amount": "3",
+            "rarity": "rare",
+            "reference": "ALT_ALIZE_B_OR_43_R2",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/en_US/d91a647a7b6c21efa5076198d5f3d174.png",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 2
+            }
+        },
+        {
+            "name": "Off you go!",
+            "amount": "3",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_21_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/33593c25dfdea12f87d331088b1ab3a2.jpg",
+            "stats": {
+                "hand_mana": 2,
+                "reserve_mana": 4
+            }
+        },
+        {
+            "name": "Moth to a Flame",
+            "amount": "3",
+            "rarity": "common",
+            "reference": "ALT_ALIZE_B_YZ_41_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/44427056098434f8d1bf85812489ac71.png",
+            "stats": {
+                "hand_mana": 3,
+                "reserve_mana": 2
+            }
+        },
+        {
+            "name": "Conjuring Seal",
+            "amount": "3",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_23_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/722ffb74d49b4c505e72768afb34aef1.jpg",
+            "stats": {
+                "hand_mana": 3,
+                "reserve_mana": 5
+            }
+        },
+        {
+            "name": "Banishing Gate",
+            "amount": "1",
+            "rarity": "common",
+            "reference": "ALT_CORE_B_YZ_24_C",
+            "url": "https://www.altered.gg/image-transform/?width=640&format=auto&quality=75&image=https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/f461575dda4bbac6623e553b5638c5da.jpg",
+            "stats": {
+                "hand_mana": 4,
+                "reserve_mana": 4
+            }
+        }
+    ]
+}
